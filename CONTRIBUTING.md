@@ -8,6 +8,8 @@ If you need to get in contact with the repository maintainers, please reach out 
 
 There are many ways to contribute, but here are a few if you want a place to start:
 
+0. You can also contribute through writing new proposals.
+
 1. **Opening an issue.** Before opening an issue, please check that there is not an issue already open. If there is, feel free to comment more details, explanations, or examples within the open issue rather than duplicating it. Suggesting changes to the open development process are within the bounds of opening issues. We are always open to feedback and receptive to suggestions!
 2. **Resolving an issue.** You can resolve an issue either by showing that it is not an issue or by fixing the issue with code changes, additional tests, etc. Any pull request fixing an issue should reference that issue.
 3. **Reviewing open PRs.** You can provide comments, standards guidance, naming suggestions, gas optimizations, or ideas for alternative designs on any open pull request.
